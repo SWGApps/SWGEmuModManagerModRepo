@@ -1,0 +1,5 @@
+banner=https://i0.wp.com/www.gamertribute.com/wp-content/uploads/2014/07/Star-Wars-Galaxies.jpg?fit=1024%2C768&ssl=1
+description=This expands on the well developed music for the game with some refreshing new music that doesn't detract from the experience.
+author=Unknown & Kayliaah
+version=2.1
+source=https://www.swgemu.com/forums/showthread.php?t=3380&page=14&p=328296&viewfull=1#post328296

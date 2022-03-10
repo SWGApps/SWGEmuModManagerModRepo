@@ -1,0 +1,5 @@
+banner=https://static.wikia.nocookie.net/swg/images/5/56/Cityinvasion.jpg/revision/latest?cb=20091217131719
+description=Retextures individual Starports
+author=Himalayas
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/himalayas-tatooine-starports.93/

@@ -1,0 +1,5 @@
+banner=https://static.wikia.nocookie.net/swg/images/c/c4/Life_Day_Matriarch_Painting.jpg/revision/latest?cb=20060106101258
+description=Retextures individual paintings
+author=Himalayas
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/himalayas-tatooine-starports.93/

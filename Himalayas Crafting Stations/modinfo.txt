@@ -1,0 +1,5 @@
+banner=https://www.raphkoster.com/wp-content/uploads/2015/04/femcharsswgjpg.jpg
+description=Retextures individual Crafting Stations
+author=Himalayas
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/hd-swg-textures-crafting-stations.92/

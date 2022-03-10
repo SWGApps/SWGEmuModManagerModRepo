@@ -1,0 +1,5 @@
+banner=https://www.2phatgeeks.com/wp-content/uploads/2021/02/SwgClient_r-2020-09-21-19-07-31.png
+description=A mod that expands the music duration and themes on a few of the planets so things are not so quiet and dull whilst exploring
+author=MatthewStarWars
+version=1.0
+source=https://modthegalaxy.com/index.php?threads/unique-planetary-music-expanded-themes-pack.858/#post-7316

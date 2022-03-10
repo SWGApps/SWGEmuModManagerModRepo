@@ -1,0 +1,5 @@
+banner=http://www.blogcdn.com/massively.joystiq.com/media/2011/10/screenshot0959.jpg
+description=Retextures individual terminals
+author=Himalayas
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/hd-swg-textures-terminals.91/

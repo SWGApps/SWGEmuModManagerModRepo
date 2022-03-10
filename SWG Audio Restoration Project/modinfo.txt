@@ -1,0 +1,5 @@
+banner=https://images.gamewatcherstatic.com/news/image/0/29/2070/index_0036907.jpg
+description=Adds back in some of the high frequencies that were lost during the compression of the game music
+author=Axuim
+version=1.5
+source=https://modthegalaxy.com/index.php?threads/swg-audio-restoration-project-arp.216/
