@@ -1,0 +1,5 @@
+banner=
+description=Removes the full-frame styling, cleans up the UI, and increases font sizes
+author=Taodah
+version=0.1.1
+source=https://modthegalaxy.com/index.php?resources/borderlessui-plus-fontsize.83/

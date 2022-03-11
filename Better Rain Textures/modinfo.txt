@@ -1,0 +1,5 @@
+banner=
+description=Makes the rain look better
+author=MatthewStarWars
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/better-rain-textures-by-matthewstarwars.22/

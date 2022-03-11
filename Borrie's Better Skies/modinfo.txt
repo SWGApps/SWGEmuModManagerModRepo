@@ -1,0 +1,5 @@
+banner=
+description=Replaces the cloud textures with higher resolution, higher quality sky textures and replaces the environment color maps to be more vibrant and detailed
+author=HelmedRaven
+version=1.1
+source=https://modthegalaxy.com/index.php?resources/borries-better-skies.73/

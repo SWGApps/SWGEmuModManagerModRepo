@@ -1,0 +1,5 @@
+banner=
+description=Adds a new shader to trees that allow their leaves to sway and move over time
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-swaying-trees.72/

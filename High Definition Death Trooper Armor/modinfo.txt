@@ -1,0 +1,5 @@
+banner=
+description=An upscale of the worst armor from the worst expansion in any version of the game
+author=Weti
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/hd-swg-textures-death-trooper-armor.87/

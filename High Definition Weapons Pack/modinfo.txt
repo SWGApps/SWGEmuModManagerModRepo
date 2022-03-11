@@ -1,0 +1,5 @@
+banner=
+description=New models for the E-11 Rifle / Carbine, as well as the Vibroaxe, Scout Blaster, and Force Pike
+author=Rooxon
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/weaponshd-pack-by-rooxon-for-swg.16/

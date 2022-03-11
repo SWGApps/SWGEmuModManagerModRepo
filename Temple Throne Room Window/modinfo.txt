@@ -1,0 +1,5 @@
+banner=
+description=Removes the blocked off wall from the mesh, revealing the sky beyond
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/temple-throne-room-window.11/

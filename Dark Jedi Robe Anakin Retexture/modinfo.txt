@@ -1,0 +1,5 @@
+banner=
+description=Retextures for the Dark Jedi Robe that makes the robes resemble Anakin's robe from Revenge of the Sith
+author=UnarmedHit3 (Maybe?)
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/dark-jedi-robe-anakin-retexture.53/

@@ -1,0 +1,5 @@
+banner=
+description=Swaps out the parts shader for Protocol Droids to enable their eyes to emit light
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/illuminated-protocol-droid-eyes.10/

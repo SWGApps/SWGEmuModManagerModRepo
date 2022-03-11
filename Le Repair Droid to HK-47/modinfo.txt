@@ -1,0 +1,5 @@
+banner=
+description=LE Repair Droid to HK-47 swap
+author=Algebuckina
+version=0.1
+source=https://modthegalaxy.com/index.php?resources/le-repair-droid-to-hk-47.89/

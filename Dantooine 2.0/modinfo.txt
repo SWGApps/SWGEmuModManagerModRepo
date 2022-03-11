@@ -1,0 +1,5 @@
+banner=
+description=Complete overhaul of planetary textures
+author=Eastwind
+version=2.0
+source=https://modthegalaxy.com/index.php?resources/my-dantooine-2-0-by-eastwind.25/

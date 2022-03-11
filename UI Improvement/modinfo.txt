@@ -1,0 +1,5 @@
+banner=
+description=Moves various UI elements around to improve the look and feel of the UI
+author=Phoenix
+version=1.0.1
+source=https://modthegalaxy.com/index.php?resources/ui-improvement.68/

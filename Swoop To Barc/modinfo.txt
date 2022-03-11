@@ -1,0 +1,5 @@
+banner=
+description=Replaces all in game instances of the swoop with the barc model ***NOTE*** This WILL break all instances of the barc if a server has barcs enabled.
+author=Eastwind
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/swoop-to-barc.37/

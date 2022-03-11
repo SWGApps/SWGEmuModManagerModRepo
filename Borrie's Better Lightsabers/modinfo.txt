@@ -1,0 +1,5 @@
+banner=
+description=Replaces lightsaber hilts. Sourced from JKA
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-better-lightsabers-ft-revan-dark.13/

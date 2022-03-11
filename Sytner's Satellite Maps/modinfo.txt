@@ -1,0 +1,5 @@
+banner=
+description=Replaces the default maps with high resolution maps that includes flora and cities rendered
+author=Sytner
+version=2.0
+source=https://modthegalaxy.com/index.php?resources/sytners-satellite-maps.7/

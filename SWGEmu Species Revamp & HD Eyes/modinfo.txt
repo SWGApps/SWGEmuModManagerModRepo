@@ -1,0 +1,5 @@
+banner=
+description=Humanoid revamp from the NGE and high definition eye textures
+author=Kayliaah, Rinzler, Borrie BoBaka
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/swgemu-species-revamp-hd-eyes.88/

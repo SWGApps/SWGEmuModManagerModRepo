@@ -1,0 +1,5 @@
+banner=
+description=Adds a second normal map to the layers, and replaces the original shader with a higher resolution normal map
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-new-water-shader.71/

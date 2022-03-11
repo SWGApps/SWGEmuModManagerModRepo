@@ -1,0 +1,5 @@
+banner=
+description=Replaces the wind generator with windmills
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-alpha-windmill.14/

@@ -1,0 +1,5 @@
+banner=
+description=Changes the shaders of reflective materials to utilize the cube reflection map instead of a 3D texture
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-better-reflections.70/

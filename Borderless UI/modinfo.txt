@@ -1,0 +1,5 @@
+banner=
+description=Removes the full-frame styling and cleans up the UI
+author=Taodah
+version=0.1.1
+source=https://modthegalaxy.com/index.php?resources/borderlessui.82/

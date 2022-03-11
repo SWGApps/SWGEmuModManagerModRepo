@@ -1,0 +1,5 @@
+banner=
+description=Removes the info disk by essentially making it invisible. Also removes the special JTL Info Disk that appears over Chassis Dealers and other JTL specific characters
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-info-disk-remover.46/

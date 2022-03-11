@@ -1,0 +1,5 @@
+banner=
+description=Assigns the mesh the correct texture, restoring its correct appearance
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/seeker-droid-texture-fix.65/

@@ -1,0 +1,5 @@
+banner=
+description=Hand made asset replacement for the Power Hammer
+author=Algebuckina
+version=0.1
+source=https://modthegalaxy.com/index.php?resources/power-hammer-mesh-replacer.42/

@@ -1,0 +1,5 @@
+banner=
+description=Makes every font the same size & increases the default from 12 to 13 for a more readable interface
+author=Taodah
+version=0.1.1
+source=https://modthegalaxy.com/index.php?resources/font-size.81/

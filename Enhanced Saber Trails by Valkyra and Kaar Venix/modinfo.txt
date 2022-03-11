@@ -1,0 +1,5 @@
+banner=
+description=Makes the lightsaber blade when doing a special more noticeable
+author=Valkyra and Kaar Venix
+version=2.0
+source=https://modthegalaxy.com/index.php?resources/enhanced-saber-trails-by-valkyra-and-kaar-venix.23/

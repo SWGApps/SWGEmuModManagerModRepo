@@ -1,0 +1,5 @@
+banner=
+description=Adds windows that can be looked through to the Naboo Small 1, Naboo Small 2, Naboo Medium, Naboo Large, Naboo Guild Hall, and Naboo City Hall buildings
+author=Rosuto
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/real-windows-for-naboo-player-buildings.52/

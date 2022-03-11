@@ -1,0 +1,5 @@
+banner=
+description=Uses the old Life Day SOE tre files to turn Naboo and Corellia into winter wonderlands
+author=Algebuckina
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/snow-fx.24/

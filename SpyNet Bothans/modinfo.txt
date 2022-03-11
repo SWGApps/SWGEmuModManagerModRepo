@@ -1,0 +1,5 @@
+banner=
+description=Swaps the species of SpyNet operative NPCs from Rodian to Bothan
+author=Taodah
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/spynet-bothans.75/

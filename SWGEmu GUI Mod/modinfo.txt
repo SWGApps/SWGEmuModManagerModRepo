@@ -1,0 +1,5 @@
+banner=
+description=Changes the original (PreCU) interface to resemble the interface from the New Game Experience
+author=Kayliaah
+version=3.4
+source=https://modthegalaxy.com/index.php?threads/swgemu-cu-nge-gui-mods-release-update-04-07-11.47/

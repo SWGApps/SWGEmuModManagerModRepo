@@ -1,0 +1,5 @@
+banner=
+description=Replaces many door sounds
+author=HelmedRaven
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/borries-better-door-sounds.9/

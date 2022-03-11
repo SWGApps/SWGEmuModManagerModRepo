@@ -1,0 +1,5 @@
+banner=
+description=HD texture of everyone's favorite shuttle
+author=Weti
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/hd-swg-textures-shuttle.85/

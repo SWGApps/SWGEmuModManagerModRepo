@@ -1,0 +1,5 @@
+banner=
+description=Changes weird Flash speeder to AB-1
+author=Modsisl
+version=1.0
+source=https://modthegalaxy.com/index.php?resources/flash-speeder-2-ab1.61/

@@ -1,0 +1,5 @@
+banner=
+description=Changes the blades and cores to appear fuller and reduce the fat/skinny portion of the blades slightly. Also adjusts the brightness/contrast of each of the 4 blades/cores individually to give a slight "flicker" effect like the movies.
+author=Veaseomat
+version=1.1
+source=https://modthegalaxy.com/index.php?resources/saber-blades-by-veaseomat.54/
